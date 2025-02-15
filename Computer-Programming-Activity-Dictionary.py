@@ -1,0 +1,35 @@
+DATA={
+"COMPUTER":" an electronic device, machine that can perform a variety of task and operations",
+"MOBILE DEVICES":" small and portable computer designed for the on the go use",
+"HIGH COST":"computers are expensive",
+"ABACUS":" the first computer",
+"NAPIER'S BONES":"created by John Nanpier",
+"PASCALINE":"first mechanical and automatic calculator",
+"STEPPED RECKONER":"digital automatic calculator",
+"ANALYTICAL ENGINE":"a mechanical calculator that uses punch card",
+"TABULATING MACHINE":"a mechanical tabulator",
+"FIRST GEN COMPUTERS":" this computers are slow, huge, and expensive",
+"SECOND GEN COMPUTERS":"this computers uses transistors",
+"THIRD GEN COMPUTERS":"this computers uses integrated circuits",
+"FOURTH GEN COMPUTERS":"this computers uses VLSI circuits",
+"MULTITASKING":"one of the main advantages of computer",
+"MARK 1":" the first programmable computer",
+"RAM":"random access memory",
+"HARD DISK DRIVE":" an electromechanical device that can store memory permanently",
+"CPU":"central proccessing unit",
+"SYSTEM SOFTWARE":"without this software your laptop wont run",
+"APPLICATION SOFTWARE":" a software that are not necessary for a device to be operating",
+"HACKER":"will warn you about something malicious activity going around in your computer, will not steal information",
+"CRACKER":" will try to steal your information without informing you",
+"BOOTING UP":"the process of starting up your computer",
+"LOGGING IN":"log in to access your user account",
+"SHUTTING DOWN":"process of properly closing your computer including program and OS",
+"TROUBLESHOOTING":" the process of diagnosing hardware and software issues",
+"SECURITY":" it is important to keep your computer safe by using antivirus and other security measures",
+"MALWARE AND VIRUSES":" can cause a range of problem in your computer like data loss, system crashes, etc. ",
+"COMPATIBILITY ISSUES":" sometimes software and hardware components are not compatible with each other",
+"USER ERROR":"a mistake mainly caused by the user"
+
+}
+a = input(" 'SAY: ABOUT COMPUTERS' ")
+print(DATA[a])
